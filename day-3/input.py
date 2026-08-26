@@ -1,0 +1,6 @@
+name = input("Your name : ")
+age = int(input("Your agr : "))
+time = float(input("enter time : "))
+print("your name is :",name)
+print("Your age is :",age)
+print("time you entered : ",time)
